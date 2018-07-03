@@ -1,0 +1,31 @@
+swiper{
+  width: 100%;
+  height: 550rpx;
+}
+swiper image{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.items-bagcolor{
+  width: 100%;
+  height: 28rpx;
+  background: #f0f0f0;
+}
+
+.pro-items{
+  float: left;
+  width: 250rpx;
+  text-align: center;
+  margin-top: 50rpx;
+}
+.pro-img1{
+  width: 144rpx;
+  height: 141rpx;
+}
+.pro-tex{
+  font-size: 15px;
+  color:#868686;
+  font-weight: bold;
+}

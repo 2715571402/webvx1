@@ -1,0 +1,37 @@
+.items{
+  position: relative;
+}
+.pro-items{
+  float: left;
+  width:370rpx;
+  height: 800rpx;
+  background: #fafafa;
+  text-align: center;
+  margin-top: 10rpx;
+}
+.pro-items1{
+  float: right;
+  width:370rpx;
+  height: 800rpx;
+  background: #fafafa;
+  text-align: center;
+  margin-top: 10rpx;
+}
+.pro-img{
+  width: 370rpx;
+  height: 654rpx;
+}
+.pro-text1{
+  font-size: 30rpx;
+}
+.pro-text2{
+  font-size: 28rpx;
+}
+.pro-img1{
+  width: 100rpx;
+  height: 100rpx;
+  position: fixed;
+  top: 950rpx;
+  left: 600rpx;
+  
+}

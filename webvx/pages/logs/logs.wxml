@@ -1,0 +1,24 @@
+<view class='item'>
+  <view class='pro'></view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/img1.gif'></image>
+    <text class='pro-text'>我的订单</text>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/img2.gif'></image>
+    <text class='pro-text'>我的收货地址</text>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/img3.gif'></image>
+    <text class='pro-text'>我的优惠卷</text>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/img4.gif'></image>
+    <text class='pro-text'>OPPO会员</text>
+  </view>
+  
+</view>

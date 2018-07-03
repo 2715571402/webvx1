@@ -1,0 +1,45 @@
+<swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class='items-bagcolor'></view>
+
+<view class='items'>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img1.png'></image>
+    <view class='pro-tex'>预定查询</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img2.png'></image>
+    <view class='pro-tex'>服务网点查询</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img3.png'></image>
+    <view class='pro-tex'>配件价格查询</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img4.png'></image>
+    <view class='pro-tex'>维修进度查询</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img5.png'></image>
+    <view class='pro-tex'>延长保</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img1' src='/images/img6.png'></image>
+    <view class='pro-tex'>预约服务</view>
+  </view>
+  
+</view>
+

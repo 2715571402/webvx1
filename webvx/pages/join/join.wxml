@@ -1,0 +1,39 @@
+<view class='items'>
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/images1.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH130</view>
+    <view class='pro-text2'>$59</view>
+  </view>
+
+  <view class='pro-items1'>
+    <image class='pro-img' src='/images/images3.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH133</view>
+    <view class='pro-text2'>$39</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/images1.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH130</view>
+    <view class='pro-text2'>$59</view>
+  </view>
+
+  <view class='pro-items1'>
+    <image class='pro-img' src='/images/images3.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH133</view>
+    <view class='pro-text2'>$39</view>
+  </view>
+
+  <view class='pro-items'>
+    <image class='pro-img' src='/images/images1.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH130</view>
+    <view class='pro-text2'>$59</view>
+  </view>
+
+  <view class='pro-items1'>
+    <image class='pro-img' src='/images/images3.png'></image> 
+    <view class='pro-text1'>OPPO入耳式耳机 MH133</view>
+    <view class='pro-text2'>$39</view>
+  </view>
+
+  <image class='pro-img1' src='/images/shop1.png'></image>
+</view>
